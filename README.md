@@ -2,7 +2,9 @@
 
 I'm qp(qppq54s)
 
-- Base 杭州
+- Base HangZhou
+- React & Vue
+- JavaScript
 - To Be Continued...
 
 <!--
