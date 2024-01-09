@@ -1,10 +1,13 @@
-### Hi there 👋
+### About Me
+
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=qppq54s&show_icons=true&theme=dracula">
 
 I'm qp(qppq54s)
 
-- Base HangZhou
-- React & Vue
-- JavaScript
+- :newspaper_roll: React & Vue & JavaScript 
+- :computer: MacOS & Windows
+- :pencil2: 中文 & English & 日本語で勉強します
+- :stars: anime & novel
 - To Be Continued...
 
 <!--
